@@ -1,6 +1,8 @@
-﻿# Shield_eMGing_Relay_test
+﻿# Shield_eMGing_Relay
 Proyecto de prueba para Shield eMGing Relay
 
+![](resources/eMGing_Shield_Relay_desc.jpg "eMGing_Shield_Relay_desc")
+![](resources/Shield_eMGing_Relay_PINOUT.jpg "Shield_eMGing_Relay_PINOUT")
 
 Desarrollada especialmente para trabajar con los módulos Shield eMGing relay
 
